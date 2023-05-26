@@ -71,9 +71,7 @@ If you don't have Node.js and NPM installed, please follow these steps:
 
 To start the React app, use the following command:
 
-    ```
     npm start
-    ```
 
 Access the app in your browser at [http://localhost:3000](http://localhost:3000)
 
