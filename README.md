@@ -51,25 +51,29 @@ If you don't have Node.js and NPM installed, please follow these steps:
 
 1. Clone the repository:
 
-### `git clone <repository-url>`
-
+    ```
+    git clone https://github.com/jebarsonponraj/GroTube.git
+    ```
 
 2. Navigate to the project directory:
 
-### `cd <project-directory>`
-
+    ```
+    cd <project-directory>
+    ```
 
 3. Install dependencies:
 
-### `npm install`
-
+    ```
+    npm install
+    ```
 
 ## Running the App
 
 To start the React app, use the following command:
 
-### `npm start`
-
+    ```
+    npm start
+    ```
 
 Access the app in your browser at [http://localhost:3000](http://localhost:3000).
 
