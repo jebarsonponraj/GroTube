@@ -2,11 +2,9 @@
 
 This is a brief guide to help you run this GroTube app with its dependencies. Please follow the instructions below to get started.
 
-## Prerequisites
+## Live Site
 
-# React App Readme
-
-This is a brief guide to help you run a React app with its dependencies. Please follow the instructions below to get started.
+For a live demo of the app, visit: [https://grotube.vercel.app/](https://grotube.vercel.app/)
 
 ## Prerequisites
 
@@ -75,4 +73,4 @@ To start the React app, use the following command:
 
 Access the app in your browser at [http://localhost:3000](http://localhost:3000)
 
-For a live demo of the app, visit: [https://grotube.vercel.app/](https://grotube.vercel.app/)
+
